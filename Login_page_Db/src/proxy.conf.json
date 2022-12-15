@@ -1,0 +1,7 @@
+{
+    "/*":{
+        "target":"http://locahost:8083",
+        "secure":false,
+        "logLevel":"debug"
+    }
+}
